@@ -3,7 +3,7 @@
 ## Instructions
 
 To install Jupyter Notebook, if you don't have it, run
-`pip install jupyter`
+`pip install jupyter` \
 And then, run the command `jupyter-notebook code.ipynb`
 
 ## The Question
