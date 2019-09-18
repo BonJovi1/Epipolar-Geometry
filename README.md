@@ -1,5 +1,8 @@
 # Epipolar-Geometry
 
+If the notebook doesn't load on GitHub, us the notebook viewer:
+https://nbviewer.jupyter.org/github/BonJovi1/Epipolar-Geometry/blob/master/code.ipynb
+
 ## Instructions
 
 To install Jupyter Notebook, if you don't have it, run
